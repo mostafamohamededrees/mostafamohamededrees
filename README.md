@@ -16,7 +16,9 @@ I'm a passionate front-end developer with expertise in building interactive and 
 - 🛠️ Redux
 - 🧰 Redux Toolkit
 - 🗂️ Git & GitHub
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,materialui,tailwind,redux,git,github" />
+</p>
 ## Projects
 
 I have worked on various projects showcasing my skills in front-end development. Here are some highlights:
