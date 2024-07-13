@@ -47,12 +47,8 @@ I have worked on various projects showcasing my skills in front-end development.
 
 ## Get in Touch
 
-- 💼 LinkedIn: Mostafa Mohamed LinkedIn
-- 🌐 Portfolio: Mostafa Mohamed Portfolio
-- 📧 Email: mostafaedrees03@gmail.com
-
 <div align="left">
-  <a href="https://www.instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://www.instagram.com/mustafa_mohamed_edrees" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:mostafaedrees03@gmail.com" target="_blank">
