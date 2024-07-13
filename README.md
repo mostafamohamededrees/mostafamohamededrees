@@ -47,6 +47,6 @@ I have worked on various projects showcasing my skills in front-end development.
 
 ## Get in Touch
 
-- 💼 LinkedIn: Mostafa Mohamed LinkedIn
-- 🌐 Portfolio: Mostafa Mohamed Portfolio
+- 💼 LinkedIn: https://www.linkedin.com/in/mostafa-mohamed-asx7361
+- 🌐 Portfolio: https://my-portfolio-phi-ruby-78.vercel.app
 - 📧 Email: mostafaedrees03@gmail.com
