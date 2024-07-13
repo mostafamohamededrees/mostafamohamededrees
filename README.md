@@ -45,7 +45,7 @@ storage
 post (requires login)
 ∗ Profile Viewing: Enables viewing of all posts by any user, as well as a personal dashboard for the logged-in user
 ∗ Dynamic Content Loading: Utilizes pagination to load posts incrementally as users scroll
-- **[Bonik]**: || React.js, Redux, Redux Toolkit , react-router-dom ,slick-carousel , react-slick , Css , Axios
+>> **[Bonik]**: || React.js, Redux, Redux Toolkit , react-router-dom ,slick-carousel , react-slick , Css , Axios
 ∗ Built with React and Redux: Utilizes Redux Toolkit for state management and includes React Carousel and
 React Slick for dynamic UI components.
 ∗ Responsive Design: Fully optimized for various screen sizes, ensuring a seamless user experience
