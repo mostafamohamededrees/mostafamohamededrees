@@ -38,7 +38,6 @@ items.
 (dispatch/delivered)
 ∗ Displayed products in random order on the homepage with each refresh
 ∗ Ensured admin-only access to the dashboard for enhanced security
-..................................................................
 >> **[Facebook]**:
 * User Authentication: Supports account creation, login, and secure logout, with login status managed via local
 storage
@@ -46,14 +45,11 @@ storage
 post (requires login)
 ∗ Profile Viewing: Enables viewing of all posts by any user, as well as a personal dashboard for the logged-in user
 ∗ Dynamic Content Loading: Utilizes pagination to load posts incrementally as users scroll
-..................................................................
-
 - **[Bonik]**: || React.js, Redux, Redux Toolkit , react-router-dom ,slick-carousel , react-slick , Css , Axios
 ∗ Built with React and Redux: Utilizes Redux Toolkit for state management and includes React Carousel and
 React Slick for dynamic UI components.
 ∗ Responsive Design: Fully optimized for various screen sizes, ensuring a seamless user experience
 ∗ Efficient Navigation: Implements React Router DOM for smooth and intuitive navigation
-...................................................................
 ## Get in Touch
 
 - LinkedIn: [Mostafa Mohamed LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-asx7361/)
