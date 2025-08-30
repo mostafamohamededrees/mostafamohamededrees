@@ -1,4 +1,4 @@
-# Hi there, I'm Mostafa Mohamed! 👋
+# Hi there, I'm Mustafa Mohamed! 👋
 
 I'm a passionate front-end developer with expertise in building interactive and responsive web applications. Welcome to my GitHub profile!
 
